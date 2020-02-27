@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES2016",
-    "module": "system",
+    "module": "es6",
     "strict": true,
     "inlineSourceMap": true
   },
